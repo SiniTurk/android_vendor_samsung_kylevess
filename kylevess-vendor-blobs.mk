@@ -35,11 +35,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kylevess/proprietary/lib/libbrcmamrwbarienc.so:system/lib/libbrcmamrwbarienc.so \
     vendor/samsung/kylevess/proprietary/lib/libbrcmamrwbaridec.so:system/lib/libbrcmamrwbaridec.so \
     vendor/samsung/kylevess/proprietary/lib/libOMX.brcm.audio.amrnb.decoder.so:system/lib/libOMX.brcm.audio.amrnb.decoder.so \
-    vendor/samsung/kylevess/proprietary/lib/libOMX.brcm.audio.amrwb.encoder.so:system/lib/libOMX.brcm.audio.amrwb.encoder.so \
-    vendor/samsung/kylevess/proprietary/lib/libOMX.brcm.audio.amrnb.decoder.so:system/lib/libOMX.brcm.audio.amrnb.decoder.so \
+    vendor/samsung/kylevess/proprietary/lib/libOMX.brcm.audio.amrnb.encoder.so:system/lib/libOMX.brcm.audio.amrnb.encoder.so \
+    vendor/samsung/kylevess/proprietary/lib/libOMX.brcm.audio.amrwb.decoder.so:system/lib/libOMX.brcm.audio.amrwb.decoder.so \
     vendor/samsung/kylevess/proprietary/lib/libOMX.brcm.audio.amrwb.encoder.so:system/lib/libOMX.brcm.audio.amrwb.encoder.so \
     vendor/samsung/kylevess/proprietary/lib/libsAMRNB.so:system/lib/libsAMRNB.so \
     vendor/samsung/kylevess/proprietary/lib/libsAMRWB.so:system/lib/libsAMRWB.so \
+    vendor/samsung/kylevess/proprietary/lib/libOMX.brcm.audio.wma.decoder.so:system/lib/libOMX.brcm.audio.wma.decoder.so \
+    vendor/samsung/kylevess/proprietary/lib/libwmv_dec_mp.so:system/lib/libwmv_dec_mp.so \
+    vendor/samsung/kylevess/proprietary/lib/libwmv_dec_sp.so:system/lib/libwmv_dec_sp.so \
     vendor/samsung/kylevess/proprietary/lib/libFraunhoferAAC.so:system/lib/libFraunhoferAAC.so \
     vendor/samsung/kylevess/proprietary/lib/libbrcmheaacdecoder.so:system/lib/libbrcmheaacdecoder.so \
     vendor/samsung/kylevess/proprietary/lib/libOMX.brcm.audio.aac.decoder.so:system/lib/libOMX.brcm.audio.aac.decoder.so \
